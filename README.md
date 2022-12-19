@@ -10,18 +10,18 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 
 ## Courses
 
-- [ ] Basic JavaScript
-- [ ] ES6
-- [ ] Regular Expressions
-- [ ] Debugging
-- [ ] Basic Data Structures
-- [ ] Basic Algorithm Scripting
-- [ ] Object Oriented Programming
-- [ ] Functional Programming
-- [ ] Intermediate Algorithm Scripting
-- [ ] JavaScript Algorithms and Data Structures Projects
-  - [ ] Palindrome Checker
-  - [ ] Roman Numeral Converter
-  - [ ] Caesars Cipher
-  - [ ] Telephone Number Validator
-  - [ ] Cash Register
+- [ ] [1. Basic JavaScript]()
+- [ ] [2. ES6]()
+- [ ] [3. Regular Expressions]()
+- [ ] [4. Debugging]()
+- [ ] [5. Basic Data Structures]()
+- [ ] [6. Basic Algorithm Scripting]()
+- [ ] [7. Object Oriented Programming]()
+- [ ] [8. Functional Programming]()
+- [ ] [9. Intermediate Algorithm Scripting]()
+- [ ] [10. JavaScript Algorithms and Data Structures Projects]()
+  - [ ] [10.1 Palindrome Checker]()
+  - [ ] [10.2 Roman Numeral Converter]()
+  - [ ] [10.3 Caesars Cipher]()
+  - [ ] [10.4 Telephone Number Validator]()
+  - [ ] [10.5 Cash Register]()
